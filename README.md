@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on `LS Adventure` https://discord.gg/RpdPHJcYd9
+- 🔭 I’m currently working on Nothing
 - 🌱 I’m currently learning `LUA` `JavaScript`
 - 📫 How to reach me: on Discord : `Winstone#7328`
 - 📩 Development Discord : https://discord.gg/UZWfak6

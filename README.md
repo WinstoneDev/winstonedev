@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Nothing
+- 🔭 I’m currently working on LSLegacy
 - 🌱 I’m currently learning `LUA` `JavaScript`
 - 📫 How to reach me: on Discord : `.winstone`
-- 📩 Development Discord : [Discord](https://discord.gg/QNEHWTEDjj)
+- 📩 My FiveM Server Discord : [Discord](https://discord.gg/kC8rayjkv4)
 
 ## 🌍 Programming languages:
 
@@ -14,5 +14,3 @@ Here are some ideas to get you started:
   <img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="lua" src="https://img.shields.io/badge/-lua-43853D?style=flat-square&logo=lua&logoColor=white" />
 </p>
-
-[![Winstone Github's Stats](https://github-readme-stats.vercel.app/api?username=winstone)](https://github.com/anuraghazra/github-readme-stats)
